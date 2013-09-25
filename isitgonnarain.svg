@@ -22,16 +22,16 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4413">
+       id="linearGradient4413"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#fb4f21;stop-opacity:1"
+         id="stop4345"
          offset="0"
-         id="stop4415" />
+         style="stop-color:#fc7d5c;stop-opacity:1" />
       <stop
-         style="stop-color:#d42b03;stop-opacity:1"
+         id="stop4347"
          offset="1"
-         id="stop4417" />
+         style="stop-color:#ee3003;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1779,7 +1779,7 @@
          y="4292.3623">Bolzano - Bozen, IT</tspan></text>
     <path
        transform="matrix(0.71428497,0,0,0.71428497,1246.0717,1627.8204)"
-       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       d="m 380,3719.8623 c 0,9.665 -7.83502,17.5 -17.5,17.5 -9.66498,0 -17.5,-7.835 -17.5,-17.5 0,-9.665 7.83502,-17.5 17.5,-17.5 C 372.16498,3702.3623 380,3710.1973 380,3719.8623 Z"
        sodipodi:ry="17.5"
        sodipodi:rx="17.5"
        sodipodi:cy="3719.8623"
