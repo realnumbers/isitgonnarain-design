@@ -23,6 +23,30 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4680">
+      <stop
+         style="stop-color:#e9ecef;stop-opacity:1"
+         offset="0"
+         id="stop4682" />
+      <stop
+         style="stop-color:#c4cacd;stop-opacity:1"
+         offset="1"
+         id="stop4684" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4937"
+       inkscape:collect="always">
+      <stop
+         id="stop4674"
+         offset="0"
+         style="stop-color:#b8c9d4;stop-opacity:1" />
+      <stop
+         id="stop4676"
+         offset="1"
+         style="stop-color:#648695;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4575">
       <stop
          style="stop-color:#666666;stop-opacity:1"
@@ -68,18 +92,6 @@
          style="stop-color:#01a7f2;stop-opacity:1"
          offset="1"
          id="stop4409" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4937">
-      <stop
-         style="stop-color:#b8c9d4;stop-opacity:1"
-         offset="0"
-         id="stop4939" />
-      <stop
-         style="stop-color:#648695;stop-opacity:1"
-         offset="1"
-         id="stop4941" />
     </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -424,6 +436,96 @@
        y1="1012.3622"
        x2="1120"
        y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4943"
+       id="linearGradient463"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-760,6313)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4937"
+       id="linearGradient465"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-380,6313)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4928"
+       id="linearGradient467"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,6313)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4413"
+       id="linearGradient469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(380,6313)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4943"
+       id="linearGradient583"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-739.136,6950.5791)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4937"
+       id="linearGradient585"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-359.136,6950.5791)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4928"
+       id="linearGradient587"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(20.864,6950.5791)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4413"
+       id="linearGradient589"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(400.864,6950.5791)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4680"
+       id="linearGradient639"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1090.864,6950.5791)"
+       x1="1120"
+       y1="1012.3622"
+       x2="1120"
+       y2="632.36218" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -433,8 +535,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-2946.6109"
-     inkscape:cy="306.19175"
+     inkscape:cx="-1577.1538"
+     inkscape:cy="-2633.6225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -485,6 +587,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-3535.864,-3321.8694)">
+    <rect
+       y="7522.9414"
+       x="1930.864"
+       height="500"
+       width="320"
+       id="rect619"
+       style="fill:url(#linearGradient639);fill-opacity:1;stroke:none" />
     <rect
        style="fill:url(#linearGradient4631);fill-opacity:1;stroke:none"
        id="rect4629"
@@ -1872,7 +1981,7 @@
          id="tspan4382">ABOUT</tspan></text>
     <path
        transform="matrix(0.71428497,0,0,0.71428497,106.07169,2497.8204)"
-       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       d="m 380,3719.8623 c 0,9.665 -7.83502,17.5 -17.5,17.5 -9.66498,0 -17.5,-7.835 -17.5,-17.5 0,-9.665 7.83502,-17.5 17.5,-17.5 C 372.16498,3702.3623 380,3710.1973 380,3719.8623 Z"
        sodipodi:ry="17.5"
        sodipodi:rx="17.5"
        sodipodi:cy="3719.8623"
@@ -1957,7 +2066,7 @@
        sodipodi:cy="3719.8623"
        sodipodi:rx="17.5"
        sodipodi:ry="17.5"
-       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       d="m 380,3719.8623 c 0,9.665 -7.83502,17.5 -17.5,17.5 -9.66498,0 -17.5,-7.835 -17.5,-17.5 0,-9.665 7.83502,-17.5 17.5,-17.5 C 372.16498,3702.3623 380,3710.1973 380,3719.8623 Z"
        transform="matrix(0.71428497,0,0,0.71428497,496.07169,2497.8204)" />
     <text
        xml:space="preserve"
@@ -1992,5 +2101,606 @@
          sodipodi:role="line"
          x="490"
          y="5162.3623">Searching location...</tspan></text>
+    <rect
+       style="fill:url(#linearGradient463);fill-opacity:1;stroke:none"
+       id="rect359"
+       width="320"
+       height="500"
+       x="80"
+       y="6885.3623" />
+    <rect
+       y="6885.3623"
+       x="460"
+       height="500"
+       width="320"
+       id="rect361"
+       style="fill:url(#linearGradient465);fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       x="100"
+       y="6945.3623"
+       id="text363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan365"
+         x="100"
+         y="6945.3623">dude, it's</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="7001.6123"
+         id="tspan367">totally</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="7057.8623"
+         id="tspan369">gonna</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="7114.1123"
+         id="tspan371">rain!</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text373"
+       y="6945.3623"
+       x="480"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       xml:space="preserve"><tspan
+         id="tspan375"
+         y="6945.3623"
+         x="480"
+         sodipodi:role="line">It might</tspan><tspan
+         y="7001.6123"
+         x="480"
+         sodipodi:role="line"
+         id="tspan377">rain.</tspan><tspan
+         y="7057.8623"
+         x="480"
+         sodipodi:role="line"
+         id="tspan379">or not.</tspan></text>
+    <rect
+       style="fill:url(#linearGradient467);fill-opacity:1;stroke:none"
+       id="rect381"
+       width="320"
+       height="500"
+       x="840"
+       y="6885.3623" />
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       x="860"
+       y="6945.3623"
+       id="text383"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="860"
+         y="6945.3623"
+         id="tspan387">Nothing</tspan><tspan
+         sodipodi:role="line"
+         x="860"
+         y="7001.6123"
+         id="tspan473">to worry</tspan><tspan
+         sodipodi:role="line"
+         x="860"
+         y="7057.8623"
+         id="tspan475">about</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text389"
+       y="7205.3623"
+       x="100"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       xml:space="preserve"><tspan
+         y="7205.3623"
+         x="100"
+         sodipodi:role="line"
+         id="tspan391">Better get an umbrella</tspan><tspan
+         y="7239.7373"
+         x="100"
+         sodipodi:role="line"
+         id="tspan393">or something.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       x="480"
+       y="7145.3623"
+       id="text395"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="480"
+         y="7145.3623"
+         id="tspan397">Take an umbrella, or</tspan><tspan
+         sodipodi:role="line"
+         x="480"
+         y="7179.7373"
+         id="tspan399">don't. Your call.</tspan><tspan
+         sodipodi:role="line"
+         x="480"
+         y="7214.1123"
+         id="tspan401">Don't blame us if you</tspan><tspan
+         sodipodi:role="line"
+         x="480"
+         y="7248.4873"
+         id="tspan403">get wet, though.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text405"
+       y="7135.3623"
+       x="860"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       xml:space="preserve"><tspan
+         y="7135.3623"
+         x="860"
+         sodipodi:role="line"
+         id="tspan407">No rain in sight.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+       x="100"
+       y="7365.3623"
+       id="text409"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan411"
+         sodipodi:role="line"
+         x="100"
+         y="7365.3623">Bolzano - Bozen, IT</tspan></text>
+    <path
+       transform="matrix(0.71428497,0,0,0.71428497,106.07169,4700.8204)"
+       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       sodipodi:ry="17.5"
+       sodipodi:rx="17.5"
+       sodipodi:cy="3719.8623"
+       sodipodi:cx="362.5"
+       id="path413"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text415"
+       y="7364.5361"
+       x="361.81854"
+       style="font-size:18.28414726px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#7ebdd9;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:PT Serif Bold Italic"
+       xml:space="preserve"><tspan
+         y="7364.5361"
+         x="361.81854"
+         sodipodi:role="line"
+         id="tspan417">i</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text419"
+       y="7365.3623"
+       x="480"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+       xml:space="preserve"><tspan
+         y="7365.3623"
+         x="480"
+         sodipodi:role="line"
+         id="tspan421">Bolzano - Bozen, IT</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path423"
+       sodipodi:cx="362.5"
+       sodipodi:cy="3719.8623"
+       sodipodi:rx="17.5"
+       sodipodi:ry="17.5"
+       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       transform="matrix(0.71428497,0,0,0.71428497,486.07169,4700.8204)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.28414726px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#bbcbd4;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:PT Serif Bold Italic"
+       x="741.81854"
+       y="7364.5361"
+       id="text425"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan427"
+         sodipodi:role="line"
+         x="741.81854"
+         y="7364.5361">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+       x="860"
+       y="7365.3623"
+       id="text429"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan431"
+         sodipodi:role="line"
+         x="860"
+         y="7365.3623">Bolzano - Bozen, IT</tspan></text>
+    <path
+       transform="matrix(0.71428497,0,0,0.71428497,866.07169,4700.8204)"
+       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       sodipodi:ry="17.5"
+       sodipodi:rx="17.5"
+       sodipodi:cy="3719.8623"
+       sodipodi:cx="362.5"
+       id="path433"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text435"
+       y="7364.5361"
+       x="1121.8185"
+       style="font-size:18.28414726px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4e7fe;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:PT Serif Bold Italic"
+       xml:space="preserve"><tspan
+         y="7364.5361"
+         x="1121.8185"
+         sodipodi:role="line"
+         id="tspan437">i</tspan></text>
+    <rect
+       y="6885.3623"
+       x="1220"
+       height="500"
+       width="320"
+       id="rect439"
+       style="fill:url(#linearGradient469);fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text441"
+       y="6945.3623"
+       x="1240"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       xml:space="preserve"><tspan
+         id="tspan443"
+         y="6945.3623"
+         x="1240"
+         sodipodi:role="line">Shit ain't</tspan><tspan
+         id="tspan445"
+         y="7001.6123"
+         x="1240"
+         sodipodi:role="line">working.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       x="1240"
+       y="7085.3623"
+       id="text447"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan449"
+         sodipodi:role="line"
+         x="1240"
+         y="7085.3623">Check your internet</tspan><tspan
+         id="tspan451"
+         sodipodi:role="line"
+         x="1240"
+         y="7119.7373">connection or so.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text453"
+       y="7365.3623"
+       x="1240"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+       xml:space="preserve"><tspan
+         y="7365.3623"
+         x="1240"
+         sodipodi:role="line"
+         id="tspan455">Bolzano - Bozen, IT</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path457"
+       sodipodi:cx="362.5"
+       sodipodi:cy="3719.8623"
+       sodipodi:rx="17.5"
+       sodipodi:ry="17.5"
+       d="m 380,3719.8623 a 17.5,17.5 0 1 1 -35,0 A 17.5,17.5 0 1 1 380,3719.8623 Z"
+       transform="matrix(0.71428497,0,0,0.71428497,1246.0717,4700.8204)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.28414726px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#fb4a1a;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:PT Serif Bold Italic"
+       x="1501.8185"
+       y="7364.5361"
+       id="text459"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan461"
+         sodipodi:role="line"
+         x="1501.8185"
+         y="7364.5361">i</tspan></text>
+    <rect
+       y="7522.9414"
+       x="100.864"
+       height="500"
+       width="320"
+       id="rect477"
+       style="fill:url(#linearGradient583);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:url(#linearGradient585);fill-opacity:1;stroke:none"
+       id="rect479"
+       width="320"
+       height="500"
+       x="480.86401"
+       y="7522.9414" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text481"
+       y="7582.9414"
+       x="120.864"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       xml:space="preserve"><tspan
+         y="7582.9414"
+         x="120.864"
+         id="tspan483"
+         sodipodi:role="line">dude, it's</tspan><tspan
+         id="tspan485"
+         y="7639.1914"
+         x="120.864"
+         sodipodi:role="line">totally</tspan><tspan
+         id="tspan487"
+         y="7695.4414"
+         x="120.864"
+         sodipodi:role="line">gonna</tspan><tspan
+         id="tspan489"
+         y="7751.6914"
+         x="120.864"
+         sodipodi:role="line">rain!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       x="500.86401"
+       y="7582.9414"
+       id="text491"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="500.86401"
+         y="7582.9414"
+         id="tspan493">It might</tspan><tspan
+         id="tspan495"
+         sodipodi:role="line"
+         x="500.86401"
+         y="7639.1914">rain.</tspan><tspan
+         id="tspan497"
+         sodipodi:role="line"
+         x="500.86401"
+         y="7695.4414">or not.</tspan></text>
+    <rect
+       y="7522.9414"
+       x="860.86401"
+       height="500"
+       width="320"
+       id="rect499"
+       style="fill:url(#linearGradient587);fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text501"
+       y="7582.9414"
+       x="880.86401"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       xml:space="preserve"><tspan
+         id="tspan503"
+         y="7582.9414"
+         x="880.86401"
+         sodipodi:role="line">Nothing</tspan><tspan
+         id="tspan505"
+         y="7639.1914"
+         x="880.86401"
+         sodipodi:role="line">to worry</tspan><tspan
+         id="tspan507"
+         y="7695.4414"
+         x="880.86401"
+         sodipodi:role="line">about</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       x="120.864"
+       y="7832.9414"
+       id="text509"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan511"
+         sodipodi:role="line"
+         x="120.864"
+         y="7832.9414">Better get an umbrella</tspan><tspan
+         id="tspan513"
+         sodipodi:role="line"
+         x="120.864"
+         y="7867.3164">or something.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text515"
+       y="7772.9414"
+       x="500.86401"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       xml:space="preserve"><tspan
+         id="tspan517"
+         y="7772.9414"
+         x="500.86401"
+         sodipodi:role="line">Take an umbrella, or</tspan><tspan
+         id="tspan519"
+         y="7807.3164"
+         x="500.86401"
+         sodipodi:role="line">don't. Your call.</tspan><tspan
+         id="tspan521"
+         y="7841.6914"
+         x="500.86401"
+         sodipodi:role="line">Don't blame us if you</tspan><tspan
+         id="tspan523"
+         y="7876.0664"
+         x="500.86401"
+         sodipodi:role="line">get wet, though.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       x="880.86401"
+       y="7762.9414"
+       id="text525"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan527"
+         sodipodi:role="line"
+         x="880.86401"
+         y="7762.9414">No rain in sight.</tspan></text>
+    <rect
+       style="fill:url(#linearGradient589);fill-opacity:1;stroke:none"
+       id="rect559"
+       width="320"
+       height="500"
+       x="1240.864"
+       y="7522.9414" />
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       x="1260.864"
+       y="7582.9414"
+       id="text561"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1260.864"
+         y="7582.9414"
+         id="tspan563">Shit ain't</tspan><tspan
+         sodipodi:role="line"
+         x="1260.864"
+         y="7639.1914"
+         id="tspan565">working.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text567"
+       y="7712.9414"
+       x="1260.864"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       xml:space="preserve"><tspan
+         y="7712.9414"
+         x="1260.864"
+         sodipodi:role="line"
+         id="tspan569">Check your internet</tspan><tspan
+         y="7747.3164"
+         x="1260.864"
+         sodipodi:role="line"
+         id="tspan571">connection or so.</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect617"
+       width="320"
+       height="45.000042"
+       x="-309.13599"
+       y="7522.9414" />
+    <g
+       id="g591"
+       transform="translate(20.864,-12.42017)">
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+         x="100"
+         y="8005.3623"
+         id="text529"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan531"
+           sodipodi:role="line"
+           x="100"
+           y="8005.3623">Bolzano - Bozen, IT</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -3170.8633,4223.4922 c -6.9035,0 -12.5,5.5964 -12.5,12.5 0,6.9035 5.5965,12.5 12.5,12.5 6.9036,0 12.5,-5.5965 12.5,-12.5 C -3158.3633,4229.0886 -3163.9597,4223.4922 -3170.8633,4223.4922 z m 0.8945,5.6621 c 0.4632,0 0.8295,0.1161 1.0977,0.3477 0.2804,0.2316 0.4199,0.5543 0.4199,0.9687 0,0.3901 -0.1395,0.702 -0.4199,0.9336 -0.2682,0.2316 -0.6345,0.3477 -1.0977,0.3477 -0.4266,0 -0.7801,-0.1161 -1.0605,-0.3477 -0.2804,-0.2316 -0.4199,-0.5435 -0.4199,-0.9336 0,-0.4144 0.1395,-0.7371 0.4199,-0.9687 C -3170.7489,4229.2704 -3170.3954,4229.1543 -3169.9688,4229.1543 z m 0.6036,4.1504 0.33,0.2207 -1.6464,7.8789 1.2812,0 0,0.623 c -0.1585,0.1097 -0.3489,0.2131 -0.5684,0.3106 -0.2072,0.097 -0.4319,0.1827 -0.6757,0.2559 -0.2316,0.073 -0.4691,0.1274 -0.7129,0.164 -0.2438,0.049 -0.4759,0.074 -0.6953,0.074 -0.4632,0 -0.7859,-0.085 -0.9688,-0.2558 -0.1706,-0.1829 -0.2558,-0.3787 -0.2558,-0.586 0,-0.2438 0.018,-0.4813 0.055,-0.7129 0.037,-0.2316 0.086,-0.4872 0.1465,-0.7675 l 1.2422,-5.668 -1.1328,-0.2559 0,-0.623 c 0.1828,-0.073 0.4277,-0.1456 0.7324,-0.2188 0.3048,-0.085 0.6275,-0.1578 0.9688,-0.2187 0.3413,-0.061 0.6767,-0.1099 1.0058,-0.1465 C -3169.9185,4233.3301 -3169.6212,4233.3047 -3169.3652,4233.3047 Z"
+         transform="translate(3535.864,3761.8694)"
+         id="path533"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text539"
+         y="8005.3623"
+         x="480"
+         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+         xml:space="preserve"><tspan
+           y="8005.3623"
+           x="480"
+           sodipodi:role="line"
+           id="tspan541">Bolzano - Bozen, IT</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2790.8633,4223.4922 c -6.9035,0 -12.5,5.5964 -12.5,12.5 0,6.9035 5.5965,12.5 12.5,12.5 6.9036,0 12.5,-5.5965 12.5,-12.5 C -2778.3633,4229.0886 -2783.9597,4223.4922 -2790.8633,4223.4922 z m 0.8945,5.6621 c 0.4632,0 0.8295,0.1161 1.0977,0.3477 0.2804,0.2316 0.4199,0.5543 0.4199,0.9687 0,0.3901 -0.1395,0.702 -0.4199,0.9336 -0.2682,0.2316 -0.6345,0.3477 -1.0977,0.3477 -0.4266,0 -0.7801,-0.1161 -1.0605,-0.3477 -0.2804,-0.2316 -0.4199,-0.5435 -0.4199,-0.9336 0,-0.4144 0.1395,-0.7371 0.4199,-0.9687 C -2790.7489,4229.2704 -2790.3954,4229.1543 -2789.9688,4229.1543 z m 0.6036,4.1504 0.33,0.2207 -1.6464,7.8789 1.2812,0 0,0.623 c -0.1585,0.1097 -0.3489,0.2131 -0.5684,0.3106 -0.2072,0.097 -0.4319,0.1827 -0.6757,0.2559 -0.2316,0.073 -0.4691,0.1274 -0.7129,0.164 -0.2438,0.049 -0.4759,0.074 -0.6953,0.074 -0.4632,0 -0.7859,-0.085 -0.9688,-0.2558 -0.1706,-0.1829 -0.2558,-0.3787 -0.2558,-0.586 0,-0.2438 0.018,-0.4813 0.055,-0.7129 0.037,-0.2316 0.086,-0.4872 0.1465,-0.7675 l 1.2422,-5.668 -1.1328,-0.2559 0,-0.623 c 0.1828,-0.073 0.4277,-0.1456 0.7324,-0.2188 0.3048,-0.085 0.6275,-0.1578 0.9688,-0.2187 0.3413,-0.061 0.6767,-0.1099 1.0058,-0.1465 C -2789.9185,4233.3301 -2789.6212,4233.3047 -2789.3652,4233.3047 Z"
+         transform="translate(3535.864,3761.8694)"
+         id="path543"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+         x="860"
+         y="8005.3623"
+         id="text549"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan551"
+           sodipodi:role="line"
+           x="860"
+           y="8005.3623">Bolzano - Bozen, IT</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2410.8633,4223.4922 c -6.9035,0 -12.5,5.5964 -12.5,12.5 0,6.9035 5.5965,12.5 12.5,12.5 6.9036,0 12.5,-5.5965 12.5,-12.5 C -2398.3633,4229.0886 -2403.9597,4223.4922 -2410.8633,4223.4922 z m 0.8945,5.6621 c 0.4632,0 0.8295,0.1161 1.0977,0.3477 0.2804,0.2316 0.4199,0.5543 0.4199,0.9687 0,0.3901 -0.1395,0.702 -0.4199,0.9336 -0.2682,0.2316 -0.6345,0.3477 -1.0977,0.3477 -0.4266,0 -0.7801,-0.1161 -1.0605,-0.3477 -0.2804,-0.2316 -0.4199,-0.5435 -0.4199,-0.9336 0,-0.4144 0.1395,-0.7371 0.4199,-0.9687 C -2410.7489,4229.2704 -2410.3954,4229.1543 -2409.9688,4229.1543 z m 0.6036,4.1504 0.33,0.2207 -1.6464,7.8789 1.2812,0 0,0.623 c -0.1585,0.1097 -0.3489,0.2131 -0.5684,0.3106 -0.2072,0.097 -0.4319,0.1827 -0.6757,0.2559 -0.2316,0.073 -0.4691,0.1274 -0.7129,0.164 -0.2438,0.049 -0.4759,0.074 -0.6953,0.074 -0.4632,0 -0.7859,-0.085 -0.9688,-0.2558 -0.1706,-0.1829 -0.2558,-0.3787 -0.2558,-0.586 0,-0.2438 0.018,-0.4813 0.055,-0.7129 0.037,-0.2316 0.086,-0.4872 0.1465,-0.7675 l 1.2422,-5.668 -1.1328,-0.2559 0,-0.623 c 0.1828,-0.073 0.4257,-0.1456 0.7305,-0.2188 0.3047,-0.085 0.6294,-0.1578 0.9707,-0.2187 0.3413,-0.061 0.6767,-0.1099 1.0058,-0.1465 C -2409.9185,4233.3301 -2409.6212,4233.3047 -2409.3652,4233.3047 Z"
+         transform="translate(3535.864,3761.8694)"
+         id="path553"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text573"
+         y="8005.3623"
+         x="1240"
+         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+         xml:space="preserve"><tspan
+           y="8005.3623"
+           x="1240"
+           sodipodi:role="line"
+           id="tspan575">Bolzano - Bozen, IT</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2030.8633,4223.4922 c -6.9035,0 -12.5,5.5964 -12.5,12.5 0,6.9035 5.5965,12.5 12.5,12.5 6.9036,0 12.5,-5.5965 12.5,-12.5 C -2018.3633,4229.0886 -2023.9597,4223.4922 -2030.8633,4223.4922 z m 0.8945,5.6621 c 0.4632,0 0.8295,0.1161 1.0977,0.3477 0.2804,0.2316 0.4199,0.5543 0.4199,0.9687 0,0.3901 -0.1395,0.702 -0.4199,0.9336 -0.2682,0.2316 -0.6345,0.3477 -1.0977,0.3477 -0.4266,0 -0.7801,-0.1161 -1.0605,-0.3477 -0.2804,-0.2316 -0.4199,-0.5435 -0.4199,-0.9336 0,-0.4144 0.1395,-0.7371 0.4199,-0.9687 C -2030.7489,4229.2704 -2030.3954,4229.1543 -2029.9688,4229.1543 z m 0.6036,4.1504 0.33,0.2207 -1.6464,7.8789 1.2812,0 0,0.623 c -0.1585,0.1097 -0.3489,0.2131 -0.5684,0.3106 -0.2072,0.097 -0.4319,0.1827 -0.6757,0.2559 -0.2316,0.073 -0.4691,0.1274 -0.7129,0.164 -0.2438,0.049 -0.4759,0.074 -0.6953,0.074 -0.4632,0 -0.7859,-0.085 -0.9688,-0.2558 -0.1706,-0.1829 -0.2558,-0.3787 -0.2558,-0.586 0,-0.2438 0.018,-0.4813 0.055,-0.7129 0.037,-0.2316 0.086,-0.4872 0.1465,-0.7675 l 1.2422,-5.668 -1.1328,-0.2559 0,-0.623 c 0.1828,-0.073 0.4257,-0.1456 0.7305,-0.2188 0.3047,-0.085 0.6294,-0.1578 0.9707,-0.2187 0.3413,-0.061 0.6767,-0.1099 1.0058,-0.1465 C -2029.9185,4233.3301 -2029.6212,4233.3047 -2029.3652,4233.3047 Z"
+         transform="translate(3535.864,3761.8694)"
+         id="path577"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#475961;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold Italic"
+         x="1930"
+         y="8005.3623"
+         id="text4686"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4688"
+           sodipodi:role="line"
+           x="1930"
+           y="8005.3623">Bolzano - Bozen, IT</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4690"
+         d="m 2195.0007,7985.3616 c -6.9035,0 -12.5,5.5964 -12.5,12.5 0,6.9035 5.5965,12.5 12.5,12.5 6.9036,0 12.5,-5.5965 12.5,-12.5 C 2207.5007,7990.958 2201.9043,7985.3616 2195.0007,7985.3616 z m 0.8945,5.6621 c 0.4632,0 0.8295,0.1161 1.0977,0.3477 0.2804,0.2316 0.4199,0.5543 0.4199,0.9687 0,0.3901 -0.1395,0.702 -0.4199,0.9336 -0.2682,0.2316 -0.6345,0.3477 -1.0977,0.3477 -0.4266,0 -0.7801,-0.1161 -1.0605,-0.3477 -0.2804,-0.2316 -0.4199,-0.5435 -0.4199,-0.9336 0,-0.4144 0.1395,-0.7371 0.4199,-0.9687 C 2195.1151,7991.1398 2195.4686,7991.0237 2195.8952,7991.0237 z m 0.6036,4.1504 0.33,0.2207 -1.6464,7.8789 1.2812,0 0,0.623 c -0.1585,0.1097 -0.3489,0.2131 -0.5684,0.3106 -0.2072,0.097 -0.4319,0.1827 -0.6757,0.2559 -0.2316,0.073 -0.4691,0.1274 -0.7129,0.164 -0.2438,0.049 -0.4759,0.074 -0.6953,0.074 -0.4632,0 -0.7859,-0.085 -0.9688,-0.2558 -0.1706,-0.1829 -0.2558,-0.3787 -0.2558,-0.586 0,-0.2438 0.018,-0.4813 0.055,-0.7129 0.037,-0.2316 0.086,-0.4872 0.1465,-0.7675 l 1.2422,-5.668 -1.1328,-0.2559 0,-0.623 c 0.1828,-0.073 0.4257,-0.1456 0.7305,-0.2188 0.3047,-0.085 0.6294,-0.1578 0.9707,-0.2187 0.3413,-0.061 0.6767,-0.1099 1.0058,-0.1465 C 2195.9455,7995.1995 2196.2428,7995.1741 2196.4988,7995.1741 Z"
+         style="fill:#475961;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text621"
+       y="7582.9414"
+       x="1950.864"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#475961;fill-opacity:1;stroke:none;font-family:Novecento wide;-inkscape-font-specification:Novecento wide Bold Expanded"
+       xml:space="preserve"><tspan
+         y="7582.9414"
+         x="1950.864"
+         sodipodi:role="line"
+         id="tspan627">DUDE, it's</tspan><tspan
+         y="7639.1914"
+         x="1950.864"
+         sodipodi:role="line"
+         id="tspan646">gonna be</tspan><tspan
+         y="7695.4414"
+         x="1950.864"
+         sodipodi:role="line"
+         id="tspan648">snowing.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.5px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#475961;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Italic"
+       x="1950.864"
+       y="7772.9414"
+       id="text629"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1950.864"
+         y="7772.9414"
+         id="tspan631">Take an umbrella, or</tspan><tspan
+         sodipodi:role="line"
+         x="1950.864"
+         y="7807.3164"
+         id="tspan633">don't. Your call.</tspan><tspan
+         sodipodi:role="line"
+         x="1950.864"
+         y="7841.6914"
+         id="tspan635">Don't blame us if you</tspan><tspan
+         sodipodi:role="line"
+         x="1950.864"
+         y="7876.0664"
+         id="tspan637">get wet, though.</tspan></text>
   </g>
 </svg>
